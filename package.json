@@ -1,0 +1,12 @@
+{
+  "name": "oztesting",
+  "version": "0.1.0",
+  "description": "Testing OpenZeppelin tools",
+  "main": "index.js",
+  "author": "Flash",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  }
+}
